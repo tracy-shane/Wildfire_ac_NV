@@ -1,7 +1,8 @@
 # Wildfire_ac_NV
 Wildfire Acres Burned in Nevada and Drought
 
-I have been showing students the relationship between drought severity and normal/abovenormal years on wildfire acres burned in Nevada.
+I have been showing students a version of this figure for years.  This figure demonstrates the relationship between drought severity and normal/abovenormal precipitation years on wildfire acres burned in Nevada.
+Note the lagged response in wildfire acres burned after 2-3 consecutive years of normal-above normal precipitation.  2025 was the first year we did not burn the expected 1 million+ acres following a wet period since 1999.  
 
 This is a project that allows me to update the figure with new data as it comes in each year.
 
